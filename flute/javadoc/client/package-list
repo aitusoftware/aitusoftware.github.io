@@ -1,0 +1,6 @@
+com.aitusoftware.flute.config
+com.aitusoftware.flute.exchanger
+com.aitusoftware.flute.factory
+com.aitusoftware.flute.record
+com.aitusoftware.flute.send
+com.aitusoftware.flute.send.events
